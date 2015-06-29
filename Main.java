@@ -4,8 +4,8 @@ public class Main
 {
 	public static void main(String[] args)
 	{
-		Java.OOP b = new Java.OOP("Herro there");
-		Java.OOP c = new Java.OOP("Jebusa sava the whole of your life.");
+		OOP b = new OOP("Hello there,");
+		OOP c = new OOP("my name is Kunal.");
 		b.call();
 		c.call();
 	}
