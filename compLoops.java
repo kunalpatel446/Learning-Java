@@ -1,5 +1,5 @@
 public class compLoops{
-	static Int[] a = {0, 1, 2, 3, 4, 5};
+	static int[] a = {0, 1, 2, 3, 4, 5};
 	public static void main(String[] args){
 	func(a);
 	for (z = 0; z <a.length; ++z){
@@ -20,6 +20,6 @@ public class compLoops{
 		  		}
 		  		return a;
 		  	}
-		  }
+		}
 	}
 }
